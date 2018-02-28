@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FreeOcr</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <color name="test">#800079C3</color>
+</resources>
